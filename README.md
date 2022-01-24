@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YuridkeebX
-- 👀 I’m interested in  desenvolvimento mobile
+- 👀 I’m interested in  development mobile
 - 🌱 I’m currently learning  Flutter
 
 <!---
